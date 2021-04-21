@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealNiagra",
+			"Path": "C:\\Users\\Morgan\\Desktop\\Unreal Niagra\\UnrealNiagara\\UnrealNiagra\\Source\\UnrealNiagra.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealNiagraEditor",
+			"Path": "C:\\Users\\Morgan\\Desktop\\Unreal Niagra\\UnrealNiagara\\UnrealNiagra\\Source\\UnrealNiagraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

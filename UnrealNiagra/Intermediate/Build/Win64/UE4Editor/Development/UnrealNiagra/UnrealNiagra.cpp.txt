@@ -1,0 +1,2 @@
+C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\Definitions.UnrealNiagra.h
+C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Source\UnrealNiagra\UnrealNiagra.h

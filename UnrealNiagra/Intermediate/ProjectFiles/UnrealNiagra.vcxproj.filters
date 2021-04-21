@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealNiagra.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C82239F9-8EDB-40B3-B212-CBA3D129E4EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealNiagra.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealNiagraEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C0A24BB7-EDA3-40BA-BF9D-C44CAA6FA45E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealNiagra">
+      <UniqueIdentifier>{85B4DE98-D9D4-4901-B848-63A7FD926651}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealNiagra\UnrealNiagra.Build.cs">
+      <Filter>Source\UnrealNiagra</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealNiagra\UnrealNiagra.cpp">
+      <Filter>Source\UnrealNiagra</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealNiagra\UnrealNiagra.h">
+      <Filter>Source\UnrealNiagra</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealNiagra\UnrealNiagraGameModeBase.cpp">
+      <Filter>Source\UnrealNiagra</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealNiagra\UnrealNiagraGameModeBase.h">
+      <Filter>Source\UnrealNiagra</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

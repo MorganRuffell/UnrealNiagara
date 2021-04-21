@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Morgan\\Desktop\\Unreal Niagra\\UnrealNiagara\\UnrealNiagra\\Source\\UnrealNiagra\\UnrealNiagra.Build.cs",
+		"C:\\Users\\Morgan\\Desktop\\Unreal Niagra\\UnrealNiagara\\UnrealNiagra\\Source\\UnrealNiagra.Target.cs",
+		"C:\\Users\\Morgan\\Desktop\\Unreal Niagra\\UnrealNiagara\\UnrealNiagra\\Source\\UnrealNiagraEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

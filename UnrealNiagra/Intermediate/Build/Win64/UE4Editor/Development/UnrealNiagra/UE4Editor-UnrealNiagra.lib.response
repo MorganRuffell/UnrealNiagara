@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealNiagra.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UnrealNiagraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UnrealNiagra.cpp.obj"
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UnrealNiagraGameModeBase.cpp.obj"
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UnrealNiagra.init.gen.cpp.obj"
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UnrealNiagraGameModeBase.gen.cpp.obj"
+"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\Default.rc2.res"
+/OUT:"C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UE4Editor-UnrealNiagra.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealNiagra
