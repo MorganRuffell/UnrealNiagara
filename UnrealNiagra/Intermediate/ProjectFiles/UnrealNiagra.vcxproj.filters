@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealNiagra.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C82239F9-8EDB-40B3-B212-CBA3D129E4EC}</UniqueIdentifier>
+      <UniqueIdentifier>{FAB7A6B6-0F92-4650-9DFD-D1EC77402C7D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealNiagra.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C0A24BB7-EDA3-40BA-BF9D-C44CAA6FA45E}</UniqueIdentifier>
+      <UniqueIdentifier>{8B716F56-CF9C-4211-AF3D-1159AF7C3945}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealNiagra">
-      <UniqueIdentifier>{85B4DE98-D9D4-4901-B848-63A7FD926651}</UniqueIdentifier>
+      <UniqueIdentifier>{6340A53E-34D5-464B-9532-C4562EFD827B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealNiagra\UnrealNiagra.Build.cs">
       <Filter>Source\UnrealNiagra</Filter>

@@ -1,0 +1,63 @@
+Unreal Niagara
+
+Upgrade to Cascade, as of 4.25 it came out.
+
+## Keywords
+
+Cascade			Unreal Engine's 'old' particle system, we've made basic VFX in here. 
+
+Emitter 		An object that we can use to spawn particles.
+
+
+
+# Key Difference #
+
+Seperates the system and the emitter into different things. Emitters are seperate components, allows for better manipulation
+of the emitters that we would originally layer on top of each other, now these are seperate actors in the scene.
+
+The interface is also more complicated. But don't worry we'll break it down! 
+
+# Selection:
+
+-	This is your details panel. It allows you to navigate through each component of the emitter.
+
+# Timeline
+
+-	The playback of the particle system. Plays back over determined time, similar to cascade, which is why we learnt cascade
+	first.
+
+
+## System overview
+
+	# Emitter Spawn + Particle Spawn
+
+		Pretty self explanatory, these systems begin playback at the same time. On emitter object instantiation and on 
+		particle instantiation. Essentially these are run at begin play.
+
+	# Emitter Update + Particle Update
+
+		Like the tick method in BP, these are updated every frame and in the selection panel we can modify attributes to be able
+		to modify how these work.
+
+	# Event Handler
+
+		Event handler, handles the events that can be played back. You can use C++ & BP to influence how these function.
+
+	# Render
+	
+		Handles how particles are rendered.
+
+	
+
+## Practical Stuff
+
+	- In order to spawn in your particle emitter the particle emitter must first belong to a Niagara system.
+	- You can update the particle spawn location by going into the particle spawn and latering the box origin.
+	- Drop down arrow at the end of imported modules allows you to experiment and explore how these function as well. 
+		-	 Allows you to expose stuff to curves, you can animate over time and all that jazz!
+	- You can have multiple niagra emitters inside of a niagra system.
+
+	
+
+
+
