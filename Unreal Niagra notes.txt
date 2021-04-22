@@ -8,6 +8,8 @@ Cascade			Unreal Engine's 'old' particle system, we've made basic VFX in here.
 
 Emitter 		An object that we can use to spawn particles.
 
+System			A container if you will, that is used to contain niagra systems.
+
 
 
 # Key Difference #
@@ -58,6 +60,5 @@ The interface is also more complicated. But don't worry we'll break it down!
 	- You can have multiple niagra emitters inside of a niagra system.
 
 	
-
-
+11:38
 
