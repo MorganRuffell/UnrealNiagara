@@ -1,21 +1,4 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara).
-  Creating makefile for UnrealNiagraEditor (no existing makefile)
-  Parsing headers for UnrealNiagraEditor
-    Running UnrealHeaderTool "C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\UnrealNiagra.uproject" "C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UnrealNiagraEditor\Development\UnrealNiagraEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Morgan\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for UnrealNiagraEditor in 3.4980378 seconds
-  Building UnrealNiagraEditor...
-  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 9 actions with 20 processes...
-    [1/9] Default.rc2
-    [2/9] SharedPCH.Engine.ShadowErrors.cpp
-    [3/9] UnrealNiagra.cpp
-    [4/9] UnrealNiagra.init.gen.cpp
-    [5/9] UnrealNiagraGameModeBase.cpp
-    [6/9] UnrealNiagraGameModeBase.gen.cpp
-    [7/9] UE4Editor-UnrealNiagra.lib
-       Creating library C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UE4Editor-UnrealNiagra.lib and object C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UE4Editor-UnrealNiagra.exp
-    [8/9] UE4Editor-UnrealNiagra.dll
-       Creating library C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UE4Editor-UnrealNiagra.suppressed.lib and object C:\Users\Morgan\Desktop\Unreal Niagra\UnrealNiagara\UnrealNiagra\Intermediate\Build\Win64\UE4Editor\Development\UnrealNiagra\UE4Editor-UnrealNiagra.suppressed.exp
-    [9/9] UnrealNiagraEditor.target
-  Total time in Parallel executor: 21.92 seconds
-  Total execution time: 27.64 seconds
+  Invalidating makefile for UnrealNiagraEditor (Substance.uplugin modified)
+  Target is up to date
+  Total execution time: 2.20 seconds
